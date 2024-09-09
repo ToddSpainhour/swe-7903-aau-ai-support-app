@@ -1,0 +1,6 @@
+@swe_7903_aau_ai_support_app_HostAddress = http://localhost:5185
+
+GET {{swe_7903_aau_ai_support_app_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
